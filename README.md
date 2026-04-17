@@ -16,15 +16,15 @@ A companion study examining green infrastructure network connectivity as a furth
 ---
 ## Context
 
-![Income Distribution](figures/Income.jpg)
+<img src="figures/Income.jpg" width="600"/>
 *Median household income distribution across Philadelphia census 
 tracts — higher-income concentrations cluster in Center City.*
 
-![Historical Redlining and Demographics](figures/HOLC_Demo.jpg)
+<img src="figures/HOLC_Demo.jpg" width="600"/>
 *Historical HOLC redlining boundaries (Grade D) and contemporary 
 demographic patterns, revealing persistent spatial inequities.*
 
-![Social Vulnerability and Heat Exposure](figures/SVI_Heat.jpg)
+<img src="figures/SVI_Heat.jpg" width="600"/>
 *Social vulnerability index and heat exposure overlaid with green 
 space distribution — socially vulnerable communities face 
 simultaneous environmental burdens.*
