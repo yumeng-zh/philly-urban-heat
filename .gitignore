@@ -1,0 +1,31 @@
+# Street view images (too large for repo)
+streetview_images/
+cv_results/visualizations/
+
+# Raw ML dataset (too large)
+ml_with_residuals_filtered.csv
+Cleaned_philly_grid_100_ML_with_GRID_ID.xlsx
+
+# API keys — never commit
+.env
+secrets.py
+*_key.txt
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Large outputs
+integration_results/
+*.log
