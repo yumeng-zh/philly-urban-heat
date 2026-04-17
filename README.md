@@ -1,7 +1,7 @@
 # Seeing Urban Heat Through Computer Vision
 ### Urban Morphology and the Ecology of Thermal Landscapes — Philadelphia
 
-[![Demo](https://img.shields.io/badge/Interactive_Dashboard-Live-blue)](https://yumeng-zh.github.io/philly-urban-heat/)
+**→ [Open Interactive Dashboard](https://yumeng-zh.github.io/philly-urban-heat/demo/)**
 
 ---
 
